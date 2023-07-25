@@ -1,0 +1,4111 @@
+fileFormatVersion: 2
+guid: ad0dd0fc6d3d7da4ca3aeff39d74d54a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Little Fighter Justin_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1643
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c19fc49c75358f4cbf52eee394583b4
+      internalID: 1776408678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1643
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1eac57b2916fe41a17ff1e637f07c9
+      internalID: 1428501525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1643
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828aba1b69bcbd84489b949169fb2b09
+      internalID: -1389004020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1643
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d145cc62de2614eb1a520f38a208c4
+      internalID: 123867720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1643
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6878544f0ebef346a7c6de2f6fad77c
+      internalID: -328481603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1643
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccab74d8772aca408b1cfea857f546d
+      internalID: 1437134885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1643
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438cca5a70c4e6841a6465f7b39ecf46
+      internalID: 1755882773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1643
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a359ad7025b51546b0a6c2d62a3e1c6
+      internalID: -1837362510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_24
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1653
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15b64e544b6cb4fafc62e8597a104f
+      internalID: -1427004823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1652
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2400afc982cc44abeb6b36aaa3f608
+      internalID: -702957228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1563
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70faf801e8b273f47a1daa88ca5eb138
+      internalID: -1276800174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1563
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc39fa1882f594e9af02ca35cebb86
+      internalID: -2060801152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1563
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ee021d1973de84dbb51d6863d17e3e
+      internalID: -17069781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1563
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27ee6959615d143b2c8bf452ed9b35
+      internalID: -1585403777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1563
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4649b5748a6ee4eaac24d3a96957a0
+      internalID: 620422818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1563
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5528f4a573d32e459f07c7f6f2deaf8
+      internalID: 1277477827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_32
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1563
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ceb29f658cfb428547b4bb1adafa8
+      internalID: -470758291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_33
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1563
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea52edc6c76134dab7c3a2dae023ec
+      internalID: 1015050290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_34
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1574
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca991c66035c2164da1f0cb721f36a11
+      internalID: 1708591983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_35
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1574
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b68f7cd7cd08b48bfc24e3a4d3808a
+      internalID: -1740479098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1483
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92628327c4944204fa29bf0d2c3972f4
+      internalID: 1506684128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1483
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c167f153227541b5be744bf5d7c14
+      internalID: 738524303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1483
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40ccbfe8b010c489eeb2fb0a9496f3
+      internalID: 523458357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1483
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340eac0babf5c5408b9cd7269f40f57
+      internalID: 1269255926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1483
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcc7ea65092f6149842f1f74468be3b
+      internalID: -768664679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1483
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c683daf7ad0a4bb498b21dd6964dd
+      internalID: 1937805336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1483
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255954c54aa37a0408867d82e8e619e4
+      internalID: -899787088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_43
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1483
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3435a8466d9f04b972b66d1f9b0604
+      internalID: -1363905206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_44
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1483
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d352173713a44f8b2af843aa508eb
+      internalID: -1420680255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1413
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48fb744bd8a52c4388c96d0a05d2600
+      internalID: -1779189121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1421
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9d4d6c1b8f8f47bdb651bd7a522fa
+      internalID: 951704961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1434
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcec50634211a844aaf25e920bf66d4
+      internalID: -1969196420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1428
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d5ef3f25595e4d873fbe4799af4cc
+      internalID: 605804138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_49
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1404
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641d44b11223f54dac525c0dd38d026
+      internalID: 1468238028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1403
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe10bb017ef8c4fa0353ca7c6d46cd
+      internalID: 801457519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1406
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1695bc2064d1eb14bb08a7b35bd450ae
+      internalID: 706290353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_55
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1406
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27df91b11bfaac143b861ba24aa339e8
+      internalID: -958940104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1330
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5aaa34d99312e43a7730340a192712
+      internalID: -1196915787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1326
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3ff6dc169c3b4ba8f15f43f31fe58
+      internalID: 1426084644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1339
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233f8863d8a35df4b9cf7751c022724a
+      internalID: 523238732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_59
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1335
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab06dfdb86ad9e499ba97a9a8a4fdf1
+      internalID: 808205343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1324
+        width: 75
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4639ab1736d1164429d0d19638182757
+      internalID: -349592250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1323
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305480713a370488de99b3ae0d3e47
+      internalID: 421978999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_62
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1323
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b4defb9910c694dac5ec21a9f0d1ac
+      internalID: 23855205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_63
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1323
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c24217e1745b85479dd2a5e2e01f18b
+      internalID: -1958425284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_64
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1323
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7e48068feb874e844b9519d69aee4
+      internalID: 421643771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_65
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1323
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c012f30cc28a2ad45907678836faaea3
+      internalID: -320650046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1243
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c546474e7e669b469fcc301a87a8695
+      internalID: 259050852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1243
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7d50a6fe6dd74a9c944b7ba03d35a
+      internalID: -107183289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1243
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f350fae41f56942b39bb585e93cfeb
+      internalID: 234490227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1243
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdec0464bc749a743b0ff296e1340ecf
+      internalID: -418258954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_70
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1243
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f44f1cd1c08224797c74e5890503e1
+      internalID: 683770833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1243
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb8ba493d58a3c4e9613ffce6a99755
+      internalID: 1789288235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_72
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1243
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc31ac6b71933464693fba0b451e7a46
+      internalID: -687254466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_73
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1245
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ed939c48f0b54f8d37055965f4f01
+      internalID: 1917051608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_74
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1245
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd1853ee91337b45879e7b1af245786
+      internalID: -1430331972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1167
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b768cad316d31b342b3b4a67adcda123
+      internalID: 991786174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1167
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5876427f46d1544438639901e230fd54
+      internalID: 1330179668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_77
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1165
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8ff5c116b72c418d0babc1d41a780
+      internalID: -2023861219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_78
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1167
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6cedce53abbc47a3dc3ccaee8dba3
+      internalID: 332612736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1169
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b523c1a39cdc40aa15c092e52d1bd
+      internalID: -649480942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1167
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bdfd0693af19541bf5fe25233c3aac
+      internalID: -983263473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1182
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9f2ddb40cfaa49b85040125c4b4d2
+      internalID: 12657929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_82
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1185
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d4d4d4a741d6247b7a951b501fb68f
+      internalID: -1740663275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_83
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1168
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a755d4ce0fd1144b98314ecfdb2991c
+      internalID: 129801735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_84
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1165
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae09738cb0aafe54c8dd5f5bfacd1010
+      internalID: -643811286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_85
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1078
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c27754f12937f429c28577b9c7cd32
+      internalID: -1572591357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1078
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246b60fa9b740446801f010e45fa557
+      internalID: -958846330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_87
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1080
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825c8ac714987e94d88bb03e080cb2a3
+      internalID: -1973188392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_88
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1079
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c78f71cea49a34595c2bd7c29d08c2
+      internalID: 590488485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1078
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab64806d4881ff547a5cedbd3b3989ad
+      internalID: 475211062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_90
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1078
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1eb5965f7c8b14a85bc73717372194
+      internalID: -1999037162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_91
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1078
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b4451d1a67f7438c8a1bd8a3010f5
+      internalID: -1032312192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_92
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 998
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb58f6f6488ddff45a5b143e155138da
+      internalID: 1332897479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 998
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1048e59fb10d949a30fdd15d2424f1
+      internalID: 603534817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_94
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 998
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87065e11b5e6174e86cadd32496642d
+      internalID: 918406346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_95
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 998
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b8bfa191232f4182b21248d9dbd28
+      internalID: 661520206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_96
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 998
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da07d268d8f30ff4291a39ceb6523fc3
+      internalID: 760253509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_97
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 998
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880186290fee06a458358647ad786aa3
+      internalID: -1614165821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_98
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 998
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b92532cf78da4da901847878fe798
+      internalID: -572989036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_99
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 918
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5528071587e747ac118b6ab45cebe
+      internalID: -59541713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 918
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c37abbb072d80409efc57cb2695b8c
+      internalID: -2051142827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 918
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44ff8ab5ca2cf94c82841fe14e55fa1
+      internalID: -970779343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 918
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab659f5f4b471349ab02fc27de9fb77
+      internalID: 97762607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_103
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 918
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7bd59d86f25374c80c5428c02ea2f7
+      internalID: -356975004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_104
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 918
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a8636559970da4aab115b4f88743a2
+      internalID: -1638253528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_105
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 918
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466a5123d3c458d43af9901d5a8ac149
+      internalID: -1060729317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_106
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 918
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabbf9df1cda3ac46a7201487d1370c6
+      internalID: -2022890693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_107
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 828
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbca58db10f0d04eb27ea47a089bcb2
+      internalID: 2139606787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_108
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 828
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e3f53b871667b4fba0ae55a6dc5bdd
+      internalID: 466620143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 828
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a53b8e91ab67b7478daeb329d0dd7fe
+      internalID: -1505615098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_110
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 828
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceced2dc17a1f6d409e8875c727e1393
+      internalID: 2145872962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_111
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 829
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62067e96f68c848a27942746373f7b
+      internalID: -1322705200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_112
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 828
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7254c407592f0f24bb67910a7bc760e1
+      internalID: -502375682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_113
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 828
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d04871e0770641a6ecd8067a56327
+      internalID: -1270739668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_114
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 828
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd940c50f98614448d1aa50f6ee19b5
+      internalID: -2030662729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_115
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 838
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c92103a159ca241bcba15fae67a033
+      internalID: -913442232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 837
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba80065a35b5cf40be717db14aea2f7
+      internalID: -1061197949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_117
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 748
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9d8831bd4f0f49a0b47cd7dd268d2
+      internalID: 441661121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_118
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 748
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf59d4882d5c4459853b0df7f7eec4
+      internalID: 429242857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_119
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 748
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b4bcd06b8238d40a93b0e8d716b787
+      internalID: 743533209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_120
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 748
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f078019a7b124f82b3688a91cc23b
+      internalID: 1811902869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_121
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 748
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c820df3dab14f64585f375bce180581
+      internalID: 761380471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_122
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 748
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b8c631786c4f4fa9dd2b50a089e7b
+      internalID: -582957945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_123
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 748
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e20cbacfffc84da439a8bd3835c2e
+      internalID: -1417883076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_124
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 748
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56002184236fceb43a7e208554ec83c0
+      internalID: -2021625343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_125
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 759
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba5afc1da68cf40b0f715b9c4903dc
+      internalID: -1744979794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_126
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 759
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f33b0f2104b8e449b4583cb907e4e60
+      internalID: 1224138033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_127
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 668
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38884bc9f3d573b4e9f714a24109e70b
+      internalID: 1667556730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_128
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 668
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61d511f25d6264983dc6f6eadff8f8
+      internalID: 1921406366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 668
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5f09115b2bfb43b63832edf63b641
+      internalID: 1214559482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_130
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 669
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9dfb7734049394cbef9bba01e52831
+      internalID: 1526872533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_131
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 668
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de729650fe4ee014aad5c53ae14ea9c1
+      internalID: 667821482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_132
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 668
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f488d0e4d4253e4a91531a93533302f
+      internalID: 337932646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_133
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 668
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127ec1d48eab964ab805d50e0447dc4
+      internalID: 1501034429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_134
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 668
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf2e5b54f063d4ea0724a44f808f39
+      internalID: -1941214309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_136
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 598
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1e7a5c8eec07c49a80e6b9dc544258
+      internalID: 148923075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_137
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 606
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be0ec5e3b088644ab74e82c611a64e8
+      internalID: -569180345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_138
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 619
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6aecddb168c9544bae1402d95aa135
+      internalID: 773330298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_139
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 613
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607c3fd243d9ca4f8ac352ce2b3cdf5
+      internalID: 1171222100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_142
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 588
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe71719d3f1bd548b80a619826a92ef
+      internalID: -1459322793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_145
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 591
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87c0bb6c5edd34ea925919d8e7a699
+      internalID: -1646964933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_146
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 591
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8c9d340f810443a63c391ec20a9ed
+      internalID: 1853047330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_147
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 515
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2752039630edc408182520ca63bdc5
+      internalID: 347514625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 511
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3016d5687150a7246890ec21a710233c
+      internalID: -158724476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_149
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 524
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352ed84b218ec34687348261dcf5efb
+      internalID: 1583886842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_150
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 520
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a063651ce76ffa4fbea08e1c1d6e422
+      internalID: -1236709593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_151
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 509
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b2d811c4362454c86edd0a594e4932
+      internalID: -1842564385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_152
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 508
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7146e450f40cd3f48aed3cf7a0c2afcc
+      internalID: 1786596102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_153
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 508
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a653e2bdd38f0ec48a41bd4e32d297d3
+      internalID: 2128281628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_154
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 508
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f5881b88e539440a2e58c334c42a9a
+      internalID: -464153711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_155
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 508
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c2cb294e99af4b9bbb7b4fbd21366
+      internalID: 1999932071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_156
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 508
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf911cfaa231242ad70875406c4922
+      internalID: 114670217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_157
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 428
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6ef4893ee1564b88725ebb104e868
+      internalID: 632726073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_158
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 428
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf019a9abef8554e92dc17b28c76a68
+      internalID: 625199650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_159
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 428
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e4777bfd216e428de1b9f186a5bfc
+      internalID: -1573387785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_160
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 428
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfbfc25e5ec3e943ba73a24c32a0ade
+      internalID: 175006992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_161
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 428
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dceb5729626fb46aeefe5a747212ce
+      internalID: 384117375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_162
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 428
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fac92c3dad8f64b8e256313dc4e89e
+      internalID: 1553670865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_163
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 428
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6342b00a961b408395ebc148a38d3
+      internalID: 1641361564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_164
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 430
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34eac825eaca742bb194eed2bd0ed3
+      internalID: 450014643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_165
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 430
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9356f97357df4eaa426a1668160e9
+      internalID: -1748325634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c463fc9ba9ab4598a9e3c8ef8f25c
+      internalID: 2093780173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_167
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 352
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c4ca480de750c46a1c38f64181319f
+      internalID: 722122107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_168
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 350
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6414613b7a40da47a9c33c70437d834
+      internalID: 1601572937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_169
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 352
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc35dca3acd110428009f723f4fe55e
+      internalID: -914135619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_170
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 354
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510002df48064a14a8197816c8b9139e
+      internalID: -680231597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_171
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 352
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4f335ab55c8041955fc5beda1c784
+      internalID: 1713132647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_172
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 367
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40904201cb8ec6a4fbecccaa9d68e8be
+      internalID: -1922144462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_173
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 370
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc92fb59df79a4e8ff007b1df1264e
+      internalID: 971194711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_174
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 353
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb9c8aa849971468cecde31e1ef6e4
+      internalID: -1304109668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_175
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 349
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7636fbe8b6cef34aac4909a868b1c95
+      internalID: 1222485845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 267
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90255212bd8cec942b7ef04b826a37b5
+      internalID: 1607744700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_177
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 267
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661a0e3ef9f95d408b7eafa2e8a4dc4
+      internalID: -1517201358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 269
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29569b79565f54588ba41e3dff305f
+      internalID: -672062472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_179
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 268
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df483a7016f85014f8124dba629ca2ed
+      internalID: -1751962675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_180
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 267
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18df59ff3b0ceb45ab259ce6a430f2e
+      internalID: 1062852172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_181
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 267
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486eaec33f0be5b4b9d10728673d0482
+      internalID: 1090772214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_182
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 267
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a9fc275c50a6c41b74bf9c751c3917
+      internalID: 1851423564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_183
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 187
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353140a0a05f5f49aa61680503a640d
+      internalID: -2043100361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_184
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 187
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655b464d83524fe4e82fad62d570f883
+      internalID: 92484733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_185
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 187
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83d938430d55646874d4b6c66a52f2
+      internalID: -693309303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 187
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40367145aa2194e44acc6174143f6d55
+      internalID: -1644258181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_187
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 187
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd2274b2d52cf94d8376773c4a35877
+      internalID: 536921986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_188
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 187
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1069943f2b0e2848b99e3e36c39f44e
+      internalID: -1161860126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_189
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 187
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd64fd5d6390e5489afa4bf97c2a97e
+      internalID: -1225678145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_190
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 107
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e2e4d11808c3f42a27b3d2b7ac4936
+      internalID: -2107246663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_191
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 107
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868ce0d217a67cb498f6ebf5d7a6e863
+      internalID: -501778559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_192
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 107
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14802881fbbbed349a424ad733e5ec38
+      internalID: 158331572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_193
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 107
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26fc53746b5224e9fdadd20185f195
+      internalID: -2146331679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_194
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 107
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b5a92985699f48a61cb08132b5376
+      internalID: 1390462965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_195
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 107
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48935259d416b3b499e288bb3372f22f
+      internalID: -401504065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_196
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 107
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403e6ebdb408b3c4393712a08bdd76ca
+      internalID: 1939851096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_197
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 107
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314218985494b3438513102686d62f9
+      internalID: 234232605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_198
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 35
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6121a6c0d7b06b449b5d06d8ecfd815
+      internalID: -999719712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_199
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 36
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb58aecfbfb404438612c88cb261f2c
+      internalID: 1246986290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_201
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 31
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838e7f6414b423042a6810287f7e9ff3
+      internalID: 1049745868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_202
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 29
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159863107260ee348ba7ad3c90f66b64
+      internalID: 1077047371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_205
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 28
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dd3821ac265c24e9cef9aa339e972f
+      internalID: -1378403982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Justin_0
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1402
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633c919498bdba4da792b0041afb9c1
+      internalID: -1511403824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Little Fighter Justin_0: -1511403824
+      Little Fighter Justin_1: 1127875867
+      Little Fighter Justin_10: -1437149901
+      Little Fighter Justin_100: -2051142827
+      Little Fighter Justin_101: -970779343
+      Little Fighter Justin_102: 97762607
+      Little Fighter Justin_103: -356975004
+      Little Fighter Justin_104: -1638253528
+      Little Fighter Justin_105: -1060729317
+      Little Fighter Justin_106: -2022890693
+      Little Fighter Justin_107: 2139606787
+      Little Fighter Justin_108: 466620143
+      Little Fighter Justin_109: -1505615098
+      Little Fighter Justin_11: 76052982
+      Little Fighter Justin_110: 2145872962
+      Little Fighter Justin_111: -1322705200
+      Little Fighter Justin_112: -502375682
+      Little Fighter Justin_113: -1270739668
+      Little Fighter Justin_114: -2030662729
+      Little Fighter Justin_115: -913442232
+      Little Fighter Justin_116: -1061197949
+      Little Fighter Justin_117: 441661121
+      Little Fighter Justin_118: 429242857
+      Little Fighter Justin_119: 743533209
+      Little Fighter Justin_12: 826941129
+      Little Fighter Justin_120: 1811902869
+      Little Fighter Justin_121: 761380471
+      Little Fighter Justin_122: -582957945
+      Little Fighter Justin_123: -1417883076
+      Little Fighter Justin_124: -2021625343
+      Little Fighter Justin_125: -1744979794
+      Little Fighter Justin_126: 1224138033
+      Little Fighter Justin_127: 1667556730
+      Little Fighter Justin_128: 1921406366
+      Little Fighter Justin_129: 1214559482
+      Little Fighter Justin_13: -81761055
+      Little Fighter Justin_130: 1526872533
+      Little Fighter Justin_131: 667821482
+      Little Fighter Justin_132: 337932646
+      Little Fighter Justin_133: 1501034429
+      Little Fighter Justin_134: -1941214309
+      Little Fighter Justin_135: 1917663760
+      Little Fighter Justin_136: 148923075
+      Little Fighter Justin_137: -569180345
+      Little Fighter Justin_138: 773330298
+      Little Fighter Justin_139: 1171222100
+      Little Fighter Justin_14: -557053497
+      Little Fighter Justin_140: -1241611495
+      Little Fighter Justin_141: 2104676634
+      Little Fighter Justin_142: -1459322793
+      Little Fighter Justin_143: -1157718949
+      Little Fighter Justin_144: 412976892
+      Little Fighter Justin_145: -1646964933
+      Little Fighter Justin_146: 1853047330
+      Little Fighter Justin_147: 347514625
+      Little Fighter Justin_148: -158724476
+      Little Fighter Justin_149: 1583886842
+      Little Fighter Justin_15: -918924939
+      Little Fighter Justin_150: -1236709593
+      Little Fighter Justin_151: -1842564385
+      Little Fighter Justin_152: 1786596102
+      Little Fighter Justin_153: 2128281628
+      Little Fighter Justin_154: -464153711
+      Little Fighter Justin_155: 1999932071
+      Little Fighter Justin_156: 114670217
+      Little Fighter Justin_157: 632726073
+      Little Fighter Justin_158: 625199650
+      Little Fighter Justin_159: -1573387785
+      Little Fighter Justin_16: 1776408678
+      Little Fighter Justin_160: 175006992
+      Little Fighter Justin_161: 384117375
+      Little Fighter Justin_162: 1553670865
+      Little Fighter Justin_163: 1641361564
+      Little Fighter Justin_164: 450014643
+      Little Fighter Justin_165: -1748325634
+      Little Fighter Justin_166: 2093780173
+      Little Fighter Justin_167: 722122107
+      Little Fighter Justin_168: 1601572937
+      Little Fighter Justin_169: -914135619
+      Little Fighter Justin_17: 1428501525
+      Little Fighter Justin_170: -680231597
+      Little Fighter Justin_171: 1713132647
+      Little Fighter Justin_172: -1922144462
+      Little Fighter Justin_173: 971194711
+      Little Fighter Justin_174: -1304109668
+      Little Fighter Justin_175: 1222485845
+      Little Fighter Justin_176: 1607744700
+      Little Fighter Justin_177: -1517201358
+      Little Fighter Justin_178: -672062472
+      Little Fighter Justin_179: -1751962675
+      Little Fighter Justin_18: -1389004020
+      Little Fighter Justin_180: 1062852172
+      Little Fighter Justin_181: 1090772214
+      Little Fighter Justin_182: 1851423564
+      Little Fighter Justin_183: -2043100361
+      Little Fighter Justin_184: 92484733
+      Little Fighter Justin_185: -693309303
+      Little Fighter Justin_186: -1644258181
+      Little Fighter Justin_187: 536921986
+      Little Fighter Justin_188: -1161860126
+      Little Fighter Justin_189: -1225678145
+      Little Fighter Justin_19: 123867720
+      Little Fighter Justin_190: -2107246663
+      Little Fighter Justin_191: -501778559
+      Little Fighter Justin_192: 158331572
+      Little Fighter Justin_193: -2146331679
+      Little Fighter Justin_194: 1390462965
+      Little Fighter Justin_195: -401504065
+      Little Fighter Justin_196: 1939851096
+      Little Fighter Justin_197: 234232605
+      Little Fighter Justin_198: -999719712
+      Little Fighter Justin_199: 1246986290
+      Little Fighter Justin_2: 144912142
+      Little Fighter Justin_20: -328481603
+      Little Fighter Justin_200: -1746682303
+      Little Fighter Justin_201: 1049745868
+      Little Fighter Justin_202: 1077047371
+      Little Fighter Justin_203: -1745782602
+      Little Fighter Justin_204: -617811760
+      Little Fighter Justin_205: -1378403982
+      Little Fighter Justin_206: 119908258
+      Little Fighter Justin_207: 1643870142
+      Little Fighter Justin_21: 1437134885
+      Little Fighter Justin_22: 1755882773
+      Little Fighter Justin_23: -1837362510
+      Little Fighter Justin_24: -1427004823
+      Little Fighter Justin_25: -702957228
+      Little Fighter Justin_26: -1276800174
+      Little Fighter Justin_27: -2060801152
+      Little Fighter Justin_28: -17069781
+      Little Fighter Justin_29: -1585403777
+      Little Fighter Justin_3: 1653889981
+      Little Fighter Justin_30: 620422818
+      Little Fighter Justin_31: 1277477827
+      Little Fighter Justin_32: -470758291
+      Little Fighter Justin_33: 1015050290
+      Little Fighter Justin_34: 1708591983
+      Little Fighter Justin_35: -1740479098
+      Little Fighter Justin_36: 1506684128
+      Little Fighter Justin_37: 738524303
+      Little Fighter Justin_38: 523458357
+      Little Fighter Justin_39: 1269255926
+      Little Fighter Justin_4: 1740529234
+      Little Fighter Justin_40: -768664679
+      Little Fighter Justin_41: 1937805336
+      Little Fighter Justin_42: -899787088
+      Little Fighter Justin_43: -1363905206
+      Little Fighter Justin_44: -1420680255
+      Little Fighter Justin_45: -1779189121
+      Little Fighter Justin_46: 951704961
+      Little Fighter Justin_47: -1969196420
+      Little Fighter Justin_48: 605804138
+      Little Fighter Justin_49: 1468238028
+      Little Fighter Justin_5: 1992001259
+      Little Fighter Justin_50: -805688635
+      Little Fighter Justin_51: 801457519
+      Little Fighter Justin_52: -779451693
+      Little Fighter Justin_53: 1686121877
+      Little Fighter Justin_54: 706290353
+      Little Fighter Justin_55: -958940104
+      Little Fighter Justin_56: -1196915787
+      Little Fighter Justin_57: 1426084644
+      Little Fighter Justin_58: 523238732
+      Little Fighter Justin_59: 808205343
+      Little Fighter Justin_6: 765715099
+      Little Fighter Justin_60: -349592250
+      Little Fighter Justin_61: 421978999
+      Little Fighter Justin_62: 23855205
+      Little Fighter Justin_63: -1958425284
+      Little Fighter Justin_64: 421643771
+      Little Fighter Justin_65: -320650046
+      Little Fighter Justin_66: 259050852
+      Little Fighter Justin_67: -107183289
+      Little Fighter Justin_68: 234490227
+      Little Fighter Justin_69: -418258954
+      Little Fighter Justin_7: 1702665524
+      Little Fighter Justin_70: 683770833
+      Little Fighter Justin_71: 1789288235
+      Little Fighter Justin_72: -687254466
+      Little Fighter Justin_73: 1917051608
+      Little Fighter Justin_74: -1430331972
+      Little Fighter Justin_75: 991786174
+      Little Fighter Justin_76: 1330179668
+      Little Fighter Justin_77: -2023861219
+      Little Fighter Justin_78: 332612736
+      Little Fighter Justin_79: -649480942
+      Little Fighter Justin_8: -923664196
+      Little Fighter Justin_80: -983263473
+      Little Fighter Justin_81: 12657929
+      Little Fighter Justin_82: -1740663275
+      Little Fighter Justin_83: 129801735
+      Little Fighter Justin_84: -643811286
+      Little Fighter Justin_85: -1572591357
+      Little Fighter Justin_86: -958846330
+      Little Fighter Justin_87: -1973188392
+      Little Fighter Justin_88: 590488485
+      Little Fighter Justin_89: 475211062
+      Little Fighter Justin_9: 624365926
+      Little Fighter Justin_90: -1999037162
+      Little Fighter Justin_91: -1032312192
+      Little Fighter Justin_92: 1332897479
+      Little Fighter Justin_93: 603534817
+      Little Fighter Justin_94: 918406346
+      Little Fighter Justin_95: 661520206
+      Little Fighter Justin_96: 760253509
+      Little Fighter Justin_97: -1614165821
+      Little Fighter Justin_98: -572989036
+      Little Fighter Justin_99: -59541713
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4587 @@
+fileFormatVersion: 2
+guid: 5c2e5eeaf6405d445900be74ec6eb9d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Little Fighter Dennis_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1675
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5ed3455294994c8606e2f28df8475
+      internalID: 51711232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1675
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5068c8ed86c5da46894690467a8f2e6
+      internalID: 1336269145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1675
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b9b0962867874ab1e0cf24c7808e1
+      internalID: 447276944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1675
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc3eb6b587e29f4ba5efd94385780d3
+      internalID: 1724171625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1675
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced481eef33cf9541a9146408093c8e2
+      internalID: -361850874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1675
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68b23b5a05b10046a22450e50583912
+      internalID: -627486701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1675
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad292556d6f0e4b419713ee991d0fec4
+      internalID: 1041465059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1675
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4bc5b54152265419aac8d22a9dd6ad
+      internalID: 1890158150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_24
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1675
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe2179f289f3441b427a3b68666081
+      internalID: -1517678836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1675
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec1ba61827d85b4f8f425c085b4e1f2
+      internalID: -1533509412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1595
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc5159cabc9c448ab3f0b09422b876
+      internalID: -1861992184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1595
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92daef7e98dfcff4cbc4fc600f4a2df1
+      internalID: -1706723744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1595
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3a3ebf0c046140a2bdb7bc659a61d
+      internalID: 1837451636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1595
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb7d69a5c6154d44b29962869251a11
+      internalID: 677542681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1595
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4db87c3065b0b43854bb7d652eda53
+      internalID: 479983974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1595
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea54eca9c4a3f46b19546cbd9e3541
+      internalID: 1597188231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_32
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1595
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb3bf3e83b64df48bec1fe2e2fd9191
+      internalID: -741257151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1595
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf66c41a2d5f1e4e83204fd2c250608
+      internalID: 56784877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_34
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1595
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dba58bf9bf955468977c514e67209b
+      internalID: -1684785783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1515
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9863512f3ceb4934da99a9b4a728ade8
+      internalID: -408722291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1515
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54210ad65590934eb300a2219a50a77
+      internalID: 1482839943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1515
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f58708e99778429deacb5b3a3f4a5
+      internalID: -848963698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1515
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df098df432b4bbc4896823102c93770d
+      internalID: -417028000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1515
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cddfdd563c6e24b9f98ae51630e809
+      internalID: -1888477534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1515
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bcf62f9816f7e45874d451e99ab2db
+      internalID: -2071851406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_41
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1515
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266fac744a13e8845864fffbb89be57a
+      internalID: -1978853524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1515
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c14a6709c567ce4c90aaedc20f87ece
+      internalID: -1774706237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1515
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4eb4e9869ca08448b2598121a9b0bb
+      internalID: -663202509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_44
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1515
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4961c714d1d44bbea1a64a1820c50
+      internalID: 1000678956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1451
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb3ef76ad396e41a8672e1ca7d9636
+      internalID: -1581975642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1453
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743fac308027c74caa01fb416c287fb
+      internalID: -699544666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1459
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a5e33173be32499d0c1d2bcc57b6a
+      internalID: 278111864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1450
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d197ff74a1b06d74c84540a3bc5d0d14
+      internalID: 1343098948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_49
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1436
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2807a6dc54fa458feda067ae6ef2b
+      internalID: 1213774610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1438
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be922e1434dda24dad9f08b02c4e889
+      internalID: -1084527811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_51
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1435
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94568f6cdb1d5ae43a61a9e59473b34d
+      internalID: 1850826758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1442
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60dbf0d9af1c4b41a009d879e827c5c
+      internalID: 1735024356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_53
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1446
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c277ea76c29cfe41aa6babbde3d10b5
+      internalID: 1748988738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_54
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1435
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6ef07e9375b44484218dc3dc51cae
+      internalID: -1177129172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1361
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d99c64ed04ae644961cf1fbd10c1db
+      internalID: 1459186155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1358
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b617966be2fa68489ef78f91f8d6e3c
+      internalID: 792282602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1366
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89af651e368013445a95b982913b90a5
+      internalID: -1776598549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1365
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779a4cbcb447eb468324f873231f96d
+      internalID: -999145847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1357
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b5ff0b6b9e8e44979e6b44f5b835e
+      internalID: -1062275873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_60
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1356
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1825af7068fe4681de46e7c29f27a
+      internalID: -95523462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_61
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1355
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a5e2cfd3c960e46b33cc630b26e725
+      internalID: 1051151877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_62
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1355
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5a0e33302a24409df363f46709744
+      internalID: -1284733234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_63
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1355
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c428653b996724ebc13a0135437496
+      internalID: 550258867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_64
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1355
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50463cd90b0d1541954c0271e5c7f98
+      internalID: 508291921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_65
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1275
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad025e7460381954fb5a7eb723ca1f8e
+      internalID: -1512755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1275
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e0a65a69b36624d80a584184db34cc
+      internalID: -1889327997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1275
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9d6458d649eb4096b63099ef3f0c6
+      internalID: -375344702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1276
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efaaadee529ebb409001d89ada68e46
+      internalID: -28172249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1275
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd26baebf00a814aa9ba504954521e0
+      internalID: 675952700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_70
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1275
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00c5cf90a68a5f439e747fd51384c00
+      internalID: 1160992444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_71
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1275
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e46e10390f3ef4284dc6fc23350892
+      internalID: 750267242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_72
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1275
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec5a9334d3ea3445b4393551f2af89a
+      internalID: 596091887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_73
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1277
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713b7f79bc51e74d85c7d48e236814a
+      internalID: -666609591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_74
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1276
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2727aa3359aaa4da27777023d0f0af
+      internalID: 790450792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_75
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1204
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3ddea764bc6474c80a4b817668431e
+      internalID: 1066512041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1206
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8cb774a09c3cd4daa79e5dac2f7673
+      internalID: -1731856686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_77
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1204
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cc285c2eb7668478769292fa7b1a20
+      internalID: -1681674393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_78
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1198
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b26a20b458c1c4d81bc15609f3280e
+      internalID: -1916387635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_79
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1214
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce6e3c75ceac14a85f4423c1632632
+      internalID: -440649548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_81
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1197
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a530b246f45b4b81001c4c33e9072
+      internalID: 837604465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_82
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1195
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50292c83b083b4099b86854644fea8
+      internalID: 2076458088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_83
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1195
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71b85832e72f94da2eba91df5c6960
+      internalID: -642926504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_84
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1195
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb1c89552900c4caf023dffc53ccae
+      internalID: -1892368344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_87
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1196
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7560a31c32eb36e46834f46b3f3e3256
+      internalID: 1377652517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1103
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e676d84c50224f8057bef49e7082c
+      internalID: 1849415928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1103
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f633b9084aee468c7f006a1f6796a
+      internalID: -1290411749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1103
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649f34a02185094584a30fa3fbde759
+      internalID: 976376801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_93
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1103
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745791f73af309640ab453ac2a121c9a
+      internalID: 312811322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_94
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1103
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adee946ac27d3c4ba2eab04b34bf1b0
+      internalID: -1654918030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_95
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1103
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bef079763a2f046a65f6f41a6e5d55
+      internalID: 2126566587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_96
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1103
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac37045aa1bd5ee4e8b57736221ba7af
+      internalID: 75573340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_97
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1103
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb825cad80753a48b263fb4a3d89bfb
+      internalID: 2004829837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_98
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1111
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc485aee638b9084aa26d9146a6d807e
+      internalID: -213999259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_99
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1111
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c8180801112f46bcd8be49d791bc3
+      internalID: -1378986104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1027
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27486b798db49f543b7019c2a3bd1a92
+      internalID: -1182239681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_101
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1027
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2977f1d466035e7479673e7596617412
+      internalID: 1898691686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1026
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8f09ef0e8cc4740a52ac637a39f443
+      internalID: 1468636277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1027
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711be9214575d4c4687534c872328e71
+      internalID: 301919190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_104
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1023
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2d1e2adf87064e913afbc16fd2022
+      internalID: -1482322913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_105
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1023
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2120c4d618e28a40a7ed84da08b0561
+      internalID: -524120432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_106
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1023
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a82f4deeaa1af4d8cfa77bbc973526
+      internalID: -607141461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_107
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1037
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb08e789b501a42bcada037fb61421
+      internalID: -436194475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_108
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1037
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c54ca84c40491449f3e43844702bdf
+      internalID: 414218920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_109
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 947
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c439059889d5c7c4983d6503e6459c3a
+      internalID: 1725787447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_110
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 947
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ae0a6f46b9a734b99e642933572918
+      internalID: 1782183833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 946
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e8e1ff8ff4e94fb57c4527668670d
+      internalID: -671521464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 947
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f173703ebb7284ab2e7b3f74a082db
+      internalID: -455179820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 943
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a237e151b20cb54fba373143b73e631
+      internalID: -161528962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_114
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 943
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1429b86d97f82824fbea9382f88f1eb1
+      internalID: -489338160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_115
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 943
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71a00e18ef8d5842ba1ea486f9eb5c2
+      internalID: 1340661109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_116
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 947
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396952ecd696a7346b4a17351840025c
+      internalID: -2045673067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_117
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 947
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745548a76c2c53f4abba91abd76612af
+      internalID: -971743526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_118
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 954
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5335f0c63b491c14a848e99b6e6352ef
+      internalID: -1396240330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_119
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 863
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b56fad23b7190d41aa768c2fb698bf4
+      internalID: 453466417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_120
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 863
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b90cde4d17f845933270b7da1c500
+      internalID: -1384588879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_121
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 863
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5df7d187acce45b8c56ebefe3be6b
+      internalID: -578173683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_122
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 863
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f22fab22ca2e444097574372e8dcf67
+      internalID: 126081721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 863
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9814a48624d24eb1830197e10b738
+      internalID: -515224941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_124
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 870
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec4fc906f2b87c4b8556b77bca9e164
+      internalID: -1793890058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_125
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 874
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93879707702d4a42b8f1d651a24a3e0
+      internalID: -571203629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_126
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 874
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424d537ce9767a40a3b08e79e427cee
+      internalID: -1889925750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 780
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64992722870908498a4d88ef0f2c3aa
+      internalID: 2033801359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_128
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 779
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441db943164ce14193eb3a8335c0447
+      internalID: -75271336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_129
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 771
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c7559f9ecda94aa690b44c5e92526
+      internalID: 602332535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_130
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 789
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ab95343d163744906d33c8bd0792c
+      internalID: 1144650645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_131
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 773
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5944288d4c9d8354dad62b62c1783f67
+      internalID: -686129968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_132
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 779
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59cdab0e680e314e9c7c3fffa318ded
+      internalID: 753908357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_133
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 778
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb47e41bbc71134594015de00d49cf1
+      internalID: 2014749933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 778
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c78685b32b28498d03c005c076b67
+      internalID: -1178180473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_135
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 778
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f326ddc6db7058846be2d488d0177610
+      internalID: -790441459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_136
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 778
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb4d62f484ad142ab61d664330abd1
+      internalID: 1658998682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_137
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 689
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916ef868c9fb974eb24ec4dfeb9e7b1
+      internalID: -1583716030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_138
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 689
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0c8e390aa60e4897c5a3b7dd460c4
+      internalID: 25136390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_139
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 690
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c7bebf57cf164fb816e07adc2cebb
+      internalID: -330750874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_140
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 689
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f3a9b06b97f6b4eb24c165cc180c8f
+      internalID: -642856303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_141
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 689
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d581cb78800c164d953806dfe40154c
+      internalID: 313131991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_142
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 689
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1060bbdc9c144ea13bc650fd7fdeb
+      internalID: 579486444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_143
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 689
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39efe87bbe2e6a45be6440fadef9fc8
+      internalID: -1487755430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_144
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 689
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2965d6272348fa445a5f52c606d31deb
+      internalID: 1729623769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_145
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 689
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ae530d68e3e154fb5b7610297e4074
+      internalID: -1689957308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_146
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 595
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777bb722d39c2e4448d84538702ae3d8
+      internalID: 782507893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_147
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 595
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9ab143f3f6474686465e0ed8b1f3a
+      internalID: 396833179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_148
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 595
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc610308604c204b8f4bd5b5d27587f
+      internalID: 1909898105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_149
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 595
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71045210d5032d243820ffc324e6e5c5
+      internalID: 703997979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_150
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 595
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4201eff30c398e43926341b0ecdb4f1
+      internalID: -1939136090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_151
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 595
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62b2c9379543e543a019382c6c6e8d4
+      internalID: -1048088262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_152
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 595
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f1ae855a3d2b140a20c49e43a43466
+      internalID: -202544017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_153
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 595
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b9908c26165e46a5793cd5b6c1137
+      internalID: 938392911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_154
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 595
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1969a51091acd540874bbf4ee8620b0
+      internalID: 1731817033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_155
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 595
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb57fb4a539a344b6110b78c087fba
+      internalID: 1464913967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_156
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 515
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b839c8f81e0c943a7bb0cc91845d38
+      internalID: -77334842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_157
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 515
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c5d9776ccf19458830a3160fb4885
+      internalID: -662219921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_158
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 515
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720fdda4c91051f44b954d249e3987bf
+      internalID: 483002410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_159
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 515
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3283385ee9a2588429af5d355ddf7358
+      internalID: -1969843074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_160
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 515
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06cae6fcddded7409b8c381acb15c52
+      internalID: 1016933543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_161
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 515
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236444476899f6489431f04102dd432
+      internalID: -889236646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_162
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 515
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba19446fef1595468f0abf8ce423d05
+      internalID: 1893394036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_163
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 515
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cdf8a89ded194b8b531aad0f86b14
+      internalID: 1103214534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_164
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 515
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cba35aeb850814fb531a0128de0d41
+      internalID: 741558090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_165
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 515
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a408a0b9d6e7143ac86181bcf00bb2
+      internalID: -518656469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_166
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 435
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b24364fa751b14b9167c0ed17b9e83
+      internalID: -1892137316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_167
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 435
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c39fbc7a443148468018b5f7255a767
+      internalID: -1314442794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_168
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 435
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b25a543835c73438d1b26b030f5c88
+      internalID: -872982348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_169
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 435
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261a31395f038747a965e05671982a6
+      internalID: 38350469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_170
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 435
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9c88fcc2aa43488ea184ec05c4c74
+      internalID: -860338900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_171
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 435
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8496e8e9ba1eb914ab631d891056283d
+      internalID: -1045625096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_172
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 435
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71247335945bd4da84adee8ddaef3d
+      internalID: 768163075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_173
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 435
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1397864e534345aac967500849a39
+      internalID: -1789931608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_174
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 435
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505209a280f9c3c4aab1186a53a9420d
+      internalID: -1570853082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_175
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 435
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632716786a153c4b93d71cbd60cd969
+      internalID: -1479275823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 355
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f270028507200e4e9ae9dd4bdc9d9b1
+      internalID: 1709149174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_177
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 359
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32835d6c613f94da607dad646319b0
+      internalID: 1976762715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_178
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 361
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0fadacb2dc9e74ebfb46c3198eee2f
+      internalID: 499027697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_179
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 362
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef58652739493a4c9bb1877fc1cc302
+      internalID: -382260412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_180
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 358
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc482e127dea18479ae99441319fdfe
+      internalID: 995586734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_181
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 361
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17458c94c26cd6340baee22d79841443
+      internalID: 1898140702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_182
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 363
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a83e1d2d9c8736459981a23488a673b
+      internalID: -365867611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_183
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 362
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079ec8195081e9448c6955928701664
+      internalID: 422865702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_184
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 355
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a96a3f1df58eb449d704b24ccd8d64
+      internalID: -1256462149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_185
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 355
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d5c1bb1482d546b097a05cd4a5a1c
+      internalID: 1829566620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_186
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 275
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f1e5a4fc42274dba35fe659c911b1
+      internalID: -1245783998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_187
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 221
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ecf9dfa51c23849b5d288e49efc56c
+      internalID: -2084641899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_188
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 275
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7246cd6bf0bed54eb56ef583907488b
+      internalID: -148318643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_189
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 220
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef2d32d303bd84b92cb389c32e69c1
+      internalID: 1726711299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_190
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 275
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b714025c21bbec49979941abbf7558b
+      internalID: 909203073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_191
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 220
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07394332563c20b48bc09d72fc295d8c
+      internalID: 395627674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_192
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 275
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f921355bd3f0cb34ea965fedb41023c1
+      internalID: -1276494253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_193
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 219
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ea8cec3a7a3c48a0d8c622b632c11
+      internalID: -39030892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_194
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 211
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f33e101168d6340bd6f3410142550b
+      internalID: 2139834862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_195
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 275
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183873e0353b9c54e823a5336feebdbe
+      internalID: 154426462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_199
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 210
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9230978985f779d43a3adac782a4561d
+      internalID: -1887578646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_200
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 275
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14484a387bf66364f8b9ad85306450b6
+      internalID: -1192551910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_202
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 275
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0482460b343283048b08d40c13210915
+      internalID: -660570590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_206
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 211
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfcbde5d631b234e94370affa635531
+      internalID: -241007822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_207
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 275
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51629177f67b68f448e17e0c909771ca
+      internalID: -810270989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee9562c315b374ca072245b202e7f4
+      internalID: 823029137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_209
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 160
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8f4c7d0c28a543a4146c2cf22f8c7
+      internalID: 1248807363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_210
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 159
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5a59f2e58886d4eb38881551a1efff
+      internalID: 477343094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_211
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 159
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd579431e6cbc449af54038ec2bf514
+      internalID: -1454271480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_212
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 163
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182d1aba8a55c441922ec8df40b1fc3
+      internalID: 2130622736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_213
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 163
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea290b5a86b7144aabe775903f9b82
+      internalID: 71109067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_214
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 162
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc0c9147a72494190c1f5ca8a24f42
+      internalID: 772063045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_215
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 161
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937e9297b0002040bccc75efc32f295
+      internalID: 918467096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_216
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14832e0aed64a94c9a2848f53b79059
+      internalID: 1153000641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_217
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 89
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9d0d0b2f64445449873a065c14e546
+      internalID: -1728695295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_218
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 92
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df59010061d6e74b98d9bf4be1c8f71
+      internalID: 2089242801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_219
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 95
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3828542908af09439046483b6182796
+      internalID: -1881680677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_220
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 75
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c1d5021ca53845a6e4c931ad22a83
+      internalID: -625321937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_221
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 74
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908da737de48dcd4ba6849025e4d3b36
+      internalID: -1573137646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_224
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 74
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7765c55aa5d7345b9b6bcd70a7914e
+      internalID: -244222880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_239
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 41
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cec285373c90854c8d37e55f796735a
+      internalID: -716962068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_240
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b3654a25b469429152c92476dbe81
+      internalID: -1595439158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_241
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3bd3e773f5d643aacb6875599f5a0
+      internalID: -163037077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_242
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 38
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe21156c6c05ee4295e1bd2937615a3
+      internalID: 1889201068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_80
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 209
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b3f0279697fa4184da47fe69fb40b
+      internalID: 290753635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Fighter Dennis_85
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 74
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4252a219dfc2a5040bbe03f14f5111ed
+      internalID: -1891224427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Little Fighter Dennis_0: 1578312334
+      Little Fighter Dennis_1: -1829511018
+      Little Fighter Dennis_10: -1084821882
+      Little Fighter Dennis_100: -1182239681
+      Little Fighter Dennis_101: 1898691686
+      Little Fighter Dennis_102: 1468636277
+      Little Fighter Dennis_103: 301919190
+      Little Fighter Dennis_104: -1482322913
+      Little Fighter Dennis_105: -524120432
+      Little Fighter Dennis_106: -607141461
+      Little Fighter Dennis_107: -436194475
+      Little Fighter Dennis_108: 414218920
+      Little Fighter Dennis_109: 1725787447
+      Little Fighter Dennis_11: 1680494926
+      Little Fighter Dennis_110: 1782183833
+      Little Fighter Dennis_111: -671521464
+      Little Fighter Dennis_112: -455179820
+      Little Fighter Dennis_113: -161528962
+      Little Fighter Dennis_114: -489338160
+      Little Fighter Dennis_115: 1340661109
+      Little Fighter Dennis_116: -2045673067
+      Little Fighter Dennis_117: -971743526
+      Little Fighter Dennis_118: -1396240330
+      Little Fighter Dennis_119: 453466417
+      Little Fighter Dennis_12: -1675413463
+      Little Fighter Dennis_120: -1384588879
+      Little Fighter Dennis_121: -578173683
+      Little Fighter Dennis_122: 126081721
+      Little Fighter Dennis_123: -515224941
+      Little Fighter Dennis_124: -1793890058
+      Little Fighter Dennis_125: -571203629
+      Little Fighter Dennis_126: -1889925750
+      Little Fighter Dennis_127: 2033801359
+      Little Fighter Dennis_128: -75271336
+      Little Fighter Dennis_129: 602332535
+      Little Fighter Dennis_13: 837891898
+      Little Fighter Dennis_130: 1144650645
+      Little Fighter Dennis_131: -686129968
+      Little Fighter Dennis_132: 753908357
+      Little Fighter Dennis_133: 2014749933
+      Little Fighter Dennis_134: -1178180473
+      Little Fighter Dennis_135: -790441459
+      Little Fighter Dennis_136: 1658998682
+      Little Fighter Dennis_137: -1583716030
+      Little Fighter Dennis_138: 25136390
+      Little Fighter Dennis_139: -330750874
+      Little Fighter Dennis_14: -689338354
+      Little Fighter Dennis_140: -642856303
+      Little Fighter Dennis_141: 313131991
+      Little Fighter Dennis_142: 579486444
+      Little Fighter Dennis_143: -1487755430
+      Little Fighter Dennis_144: 1729623769
+      Little Fighter Dennis_145: -1689957308
+      Little Fighter Dennis_146: 782507893
+      Little Fighter Dennis_147: 396833179
+      Little Fighter Dennis_148: 1909898105
+      Little Fighter Dennis_149: 703997979
+      Little Fighter Dennis_15: 874479892
+      Little Fighter Dennis_150: -1939136090
+      Little Fighter Dennis_151: -1048088262
+      Little Fighter Dennis_152: -202544017
+      Little Fighter Dennis_153: 938392911
+      Little Fighter Dennis_154: 1731817033
+      Little Fighter Dennis_155: 1464913967
+      Little Fighter Dennis_156: -77334842
+      Little Fighter Dennis_157: -662219921
+      Little Fighter Dennis_158: 483002410
+      Little Fighter Dennis_159: -1969843074
+      Little Fighter Dennis_16: 51711232
+      Little Fighter Dennis_160: 1016933543
+      Little Fighter Dennis_161: -889236646
+      Little Fighter Dennis_162: 1893394036
+      Little Fighter Dennis_163: 1103214534
+      Little Fighter Dennis_164: 741558090
+      Little Fighter Dennis_165: -518656469
+      Little Fighter Dennis_166: -1892137316
+      Little Fighter Dennis_167: -1314442794
+      Little Fighter Dennis_168: -872982348
+      Little Fighter Dennis_169: 38350469
+      Little Fighter Dennis_17: 1336269145
+      Little Fighter Dennis_170: -860338900
+      Little Fighter Dennis_171: -1045625096
+      Little Fighter Dennis_172: 768163075
+      Little Fighter Dennis_173: -1789931608
+      Little Fighter Dennis_174: -1570853082
+      Little Fighter Dennis_175: -1479275823
+      Little Fighter Dennis_176: 1709149174
+      Little Fighter Dennis_177: 1976762715
+      Little Fighter Dennis_178: 499027697
+      Little Fighter Dennis_179: -382260412
+      Little Fighter Dennis_18: 447276944
+      Little Fighter Dennis_180: 995586734
+      Little Fighter Dennis_181: 1898140702
+      Little Fighter Dennis_182: -365867611
+      Little Fighter Dennis_183: 422865702
+      Little Fighter Dennis_184: -1256462149
+      Little Fighter Dennis_185: 1829566620
+      Little Fighter Dennis_186: -1245783998
+      Little Fighter Dennis_187: -2084641899
+      Little Fighter Dennis_188: -148318643
+      Little Fighter Dennis_189: 1726711299
+      Little Fighter Dennis_19: 1724171625
+      Little Fighter Dennis_190: 909203073
+      Little Fighter Dennis_191: 395627674
+      Little Fighter Dennis_192: -1276494253
+      Little Fighter Dennis_193: -39030892
+      Little Fighter Dennis_194: 2139834862
+      Little Fighter Dennis_195: 154426462
+      Little Fighter Dennis_196: 1687952622
+      Little Fighter Dennis_197: 1029841475
+      Little Fighter Dennis_198: 1451714430
+      Little Fighter Dennis_199: -1887578646
+      Little Fighter Dennis_2: -1929323141
+      Little Fighter Dennis_20: -361850874
+      Little Fighter Dennis_200: -1192551910
+      Little Fighter Dennis_201: -1557500723
+      Little Fighter Dennis_202: -660570590
+      Little Fighter Dennis_203: 88143289
+      Little Fighter Dennis_204: -1413803389
+      Little Fighter Dennis_205: 1682911102
+      Little Fighter Dennis_206: -241007822
+      Little Fighter Dennis_207: -810270989
+      Little Fighter Dennis_208: 823029137
+      Little Fighter Dennis_209: 1248807363
+      Little Fighter Dennis_21: -627486701
+      Little Fighter Dennis_210: 477343094
+      Little Fighter Dennis_211: -1454271480
+      Little Fighter Dennis_212: 2130622736
+      Little Fighter Dennis_213: 71109067
+      Little Fighter Dennis_214: 772063045
+      Little Fighter Dennis_215: 918467096
+      Little Fighter Dennis_216: 1153000641
+      Little Fighter Dennis_217: -1728695295
+      Little Fighter Dennis_218: 2089242801
+      Little Fighter Dennis_219: -1881680677
+      Little Fighter Dennis_22: 1041465059
+      Little Fighter Dennis_220: -625321937
+      Little Fighter Dennis_221: -1573137646
+      Little Fighter Dennis_222: -858015206
+      Little Fighter Dennis_223: 343764354
+      Little Fighter Dennis_224: -244222880
+      Little Fighter Dennis_225: -1430165803
+      Little Fighter Dennis_226: -679399762
+      Little Fighter Dennis_227: 237080624
+      Little Fighter Dennis_228: -40452775
+      Little Fighter Dennis_229: -2088537144
+      Little Fighter Dennis_23: 1890158150
+      Little Fighter Dennis_230: 2124692483
+      Little Fighter Dennis_231: -1085536457
+      Little Fighter Dennis_232: 1035509561
+      Little Fighter Dennis_233: -18872425
+      Little Fighter Dennis_234: -260877626
+      Little Fighter Dennis_235: 1832870268
+      Little Fighter Dennis_236: -806694094
+      Little Fighter Dennis_237: -1248648878
+      Little Fighter Dennis_238: -1811219005
+      Little Fighter Dennis_239: -716962068
+      Little Fighter Dennis_24: -1517678836
+      Little Fighter Dennis_240: -1595439158
+      Little Fighter Dennis_241: -163037077
+      Little Fighter Dennis_242: 1889201068
+      Little Fighter Dennis_25: -1533509412
+      Little Fighter Dennis_26: -1861992184
+      Little Fighter Dennis_27: -1706723744
+      Little Fighter Dennis_28: 1837451636
+      Little Fighter Dennis_29: 677542681
+      Little Fighter Dennis_3: 1887886276
+      Little Fighter Dennis_30: 479983974
+      Little Fighter Dennis_31: 1597188231
+      Little Fighter Dennis_32: -741257151
+      Little Fighter Dennis_33: 56784877
+      Little Fighter Dennis_34: -1684785783
+      Little Fighter Dennis_35: -408722291
+      Little Fighter Dennis_36: 1482839943
+      Little Fighter Dennis_37: -848963698
+      Little Fighter Dennis_38: -417028000
+      Little Fighter Dennis_39: -1888477534
+      Little Fighter Dennis_4: -1099472244
+      Little Fighter Dennis_40: -2071851406
+      Little Fighter Dennis_41: -1978853524
+      Little Fighter Dennis_42: -1774706237
+      Little Fighter Dennis_43: -663202509
+      Little Fighter Dennis_44: 1000678956
+      Little Fighter Dennis_45: -1581975642
+      Little Fighter Dennis_46: -699544666
+      Little Fighter Dennis_47: 278111864
+      Little Fighter Dennis_48: 1343098948
+      Little Fighter Dennis_49: 1213774610
+      Little Fighter Dennis_5: 74555153
+      Little Fighter Dennis_50: -1084527811
+      Little Fighter Dennis_51: 1850826758
+      Little Fighter Dennis_52: 1735024356
+      Little Fighter Dennis_53: 1748988738
+      Little Fighter Dennis_54: -1177129172
+      Little Fighter Dennis_55: 1459186155
+      Little Fighter Dennis_56: 792282602
+      Little Fighter Dennis_57: -1776598549
+      Little Fighter Dennis_58: -999145847
+      Little Fighter Dennis_59: -1062275873
+      Little Fighter Dennis_6: -153011030
+      Little Fighter Dennis_60: -95523462
+      Little Fighter Dennis_61: 1051151877
+      Little Fighter Dennis_62: -1284733234
+      Little Fighter Dennis_63: 550258867
+      Little Fighter Dennis_64: 508291921
+      Little Fighter Dennis_65: -1512755
+      Little Fighter Dennis_66: -1889327997
+      Little Fighter Dennis_67: -375344702
+      Little Fighter Dennis_68: -28172249
+      Little Fighter Dennis_69: 675952700
+      Little Fighter Dennis_7: 588274962
+      Little Fighter Dennis_70: 1160992444
+      Little Fighter Dennis_71: 750267242
+      Little Fighter Dennis_72: 596091887
+      Little Fighter Dennis_73: -666609591
+      Little Fighter Dennis_74: 790450792
+      Little Fighter Dennis_75: 1066512041
+      Little Fighter Dennis_76: -1731856686
+      Little Fighter Dennis_77: -1681674393
+      Little Fighter Dennis_78: -1916387635
+      Little Fighter Dennis_79: -440649548
+      Little Fighter Dennis_8: -139932500
+      Little Fighter Dennis_80: 290753635
+      Little Fighter Dennis_81: 837604465
+      Little Fighter Dennis_82: 2076458088
+      Little Fighter Dennis_83: -642926504
+      Little Fighter Dennis_84: -1892368344
+      Little Fighter Dennis_85: -1891224427
+      Little Fighter Dennis_86: 2075043900
+      Little Fighter Dennis_87: 1377652517
+      Little Fighter Dennis_88: 991016038
+      Little Fighter Dennis_89: -956547166
+      Little Fighter Dennis_9: 296793051
+      Little Fighter Dennis_90: 1849415928
+      Little Fighter Dennis_91: -1290411749
+      Little Fighter Dennis_92: 976376801
+      Little Fighter Dennis_93: 312811322
+      Little Fighter Dennis_94: -1654918030
+      Little Fighter Dennis_95: 2126566587
+      Little Fighter Dennis_96: 75573340
+      Little Fighter Dennis_97: 2004829837
+      Little Fighter Dennis_98: -213999259
+      Little Fighter Dennis_99: -1378986104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
