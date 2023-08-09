@@ -13,6 +13,6 @@ public class MoveHorizontal : MonoBehaviour
     }
     public void MoveEvent(float movementSpeed)
     {
-        _rigidBody.velocity = new Vector3(movementSpeed,_rigidBody.velocity.y,0);        
+        _rigidBody.velocity = new Vector2(movementSpeed,_rigidBody.velocity.y);        
     }
 }

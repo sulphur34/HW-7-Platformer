@@ -1,6 +1,7 @@
 using UnityEngine;
 
 [RequireComponent (typeof(Animator))]
+[RequireComponent(typeof(Collider2D))]
 public class Health : MonoBehaviour
 {
     private const string Hurt = "Hurt";
@@ -27,10 +28,18 @@ public class Health : MonoBehaviour
         _currentHealth -= damage;
         _animator.SetTrigger(_hurtIndex);
 
-        if (_currentHealth == 0) 
+        if (_currentHealth <= 0) 
         {
-            _animator.SetBool(_isDeadIndex, true);
-            Destroy(gameObject, _timeToDestruction);
+            Die();
         }
+    }
+
+    private void Die()
+    {
+        _animator.SetBool(_isDeadIndex, true);
+        GetComponent<Collider2D>().enabled = false;
+        GetComponent<Rigidbody2D>().velocity = new Vector2(0.0f,0.0f);
+        GetComponent<Rigidbody2D>().isKinematic = true;
+        Destroy(gameObject, _timeToDestruction);
     }
 }

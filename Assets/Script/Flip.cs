@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
@@ -12,8 +10,8 @@ public class Flip : MonoBehaviour
     }
     public void FlipEvent()
     {
-        Debug.Log(transform.rotation.y);
         float horizontalSpeed = _rigidBody.velocity.x;
+
         if (horizontalSpeed < 0 && transform.rotation.y == 0)
         {
             transform.Rotate(0, 180, 0);
