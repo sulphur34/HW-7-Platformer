@@ -14,11 +14,13 @@ public class Attack : MonoBehaviour
 
     public void AttackEvent()
     {
-        Collider2D[] enemies = Physics2D.OverlapCircleAll(_attackPoint.position, _attackRange);
+        Collider2D[] enemies = 
+            Physics2D.OverlapCircleAll(_attackPoint.position, _attackRange);
 
         foreach (Collider2D enemy in enemies)
         {
-            if (enemy.gameObject != _attackPoint.parent.gameObject && enemy.TryGetComponent(typeof(Health), out Component health))
+            if (enemy.gameObject != _attackPoint.parent.gameObject 
+                && enemy.TryGetComponent(typeof(Health), out Component health))
             {
                 ((Health)health).TakeDamage(_damageValue);
             }

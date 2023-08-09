@@ -53,7 +53,8 @@ public class Enemy : MonoBehaviour
 
     private void Update()
     {
-        _animator.SetFloat(_horizontalSpeedIndex, Mathf.Abs(_rigidBody.velocity.x));
+        _animator.SetFloat(_horizontalSpeedIndex, 
+            Mathf.Abs(_rigidBody.velocity.x));
 
         if (_animator.GetBool(_isDeadIndex) == false && _target != null)
         {
@@ -64,6 +65,17 @@ public class Enemy : MonoBehaviour
             else
                 Patrol();
         }
+    }
+    private void OnDrawGizmos()
+    {
+        float gizmoRadius = 0.1f;
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(_leftBorderWaypoint.position, gizmoRadius);
+        Gizmos.color = Color.blue;
+        Gizmos.DrawWireSphere(_rightBorderWaypoint.position, gizmoRadius);
+        Gizmos.color = Color.white;
+        Gizmos.DrawLine(_rightBorderWaypoint.position,
+            _leftBorderWaypoint.position);
     }
 
     private void FollowTarget()
@@ -101,7 +113,8 @@ public class Enemy : MonoBehaviour
 
     private void Patrol()
     {
-        float distance = Vector2.Distance(transform.position, _currentWaypoint.position);
+        float distance = Vector2.Distance(transform.position, 
+            _currentWaypoint.position);
 
         if (distance <= 0.5f && _currentWaypoint == _rightBorderWaypoint)
         {
@@ -116,16 +129,5 @@ public class Enemy : MonoBehaviour
 
         _flip.FlipEvent();
         _moveHorizontal.MoveEvent(_speed);
-    }
-
-    private void OnDrawGizmos()
-    {
-        float gizmoRadius = 0.1f;
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(_leftBorderWaypoint.position, gizmoRadius);
-        Gizmos.color = Color.blue;
-        Gizmos.DrawWireSphere(_rightBorderWaypoint.position, gizmoRadius);
-        Gizmos.color = Color.white;
-        Gizmos.DrawLine(_rightBorderWaypoint.position, _leftBorderWaypoint.position);
-    }
+    }    
 }

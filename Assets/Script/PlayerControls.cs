@@ -40,8 +40,10 @@ public class PlayerControls : MonoBehaviour
 
     void Update()
     {
-        _animator.SetFloat(_horizontalSpeedIndex, Mathf.Abs(_rigidBody.velocity.x));
-        _animator.SetFloat(_verticalSpeedIndex, Mathf.Abs(_rigidBody.velocity.y));
+        _animator.SetFloat(_horizontalSpeedIndex,
+            Mathf.Abs(_rigidBody.velocity.x));
+        _animator.SetFloat(_verticalSpeedIndex, 
+            Mathf.Abs(_rigidBody.velocity.y));
 
         if (_animator.GetBool(_isDeadIndex) == false)
         {

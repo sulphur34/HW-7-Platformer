@@ -23,7 +23,9 @@ public class CoinSpawner : MonoBehaviour
     {
         for (int i = 0; i < _spawnedCyclesValue; i++)
         {
-            Instantiate(_spawnObject, _spawnCoordinates[_random.Next(_spawnCoordinates.Length)], Quaternion.identity);
+            Instantiate(_spawnObject,
+                _spawnCoordinates[_random.Next(_spawnCoordinates.Length)],
+                Quaternion.identity);
             yield return _waitForSeconds;
         }
     }

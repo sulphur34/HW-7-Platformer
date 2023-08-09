@@ -15,10 +15,15 @@ public class Coin : MonoBehaviour
 
     private void Update()
     {
-        if (Vector2.Distance(transform.position, _player.position) < _attractionArea)
+        if (Vector2.Distance(transform.position, _player.position)
+            < _attractionArea)
         {
             MoveTowardsTarget();
         }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Destroy(gameObject);
     }
 
     private void FindPlayer()
@@ -33,12 +38,8 @@ public class Coin : MonoBehaviour
 
     private void MoveTowardsTarget()
     {
-        var moveVector = Vector2.MoveTowards(transform.position, _player.position, _attractionSpeed * Time.deltaTime);
+        var moveVector = Vector2.MoveTowards(transform.position, 
+            _player.position, _attractionSpeed * Time.deltaTime);
         transform.position = moveVector;
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        Destroy(gameObject);
-    }
+    }    
 }
